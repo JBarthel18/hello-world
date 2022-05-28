@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
 
-My name is Jaiden I am a student programmer and I enjoy videogames. 
+My name is Jaiden I am a full time student with lifetime dreams!
